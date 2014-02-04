@@ -21,7 +21,7 @@ For more information see: http://www.omgwiki.org/bpmn-miwg
 		- [3. BPMN MIWG Roundtrip Test Procedure (BPMN Import and Export combined)](#3-bpmn-miwg-roundtrip-test-procedure-bpmn-import-and-export-combined)
 		- [4. BPMN Import and Export not supported](#4-bpmn-import-and-export-not-supported)
 	- [Repository Structure](#repository-structure)
-
+		- test
 
 How to test a BPMN tool using this test suite?
 ----------------------------------------------
